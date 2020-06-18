@@ -5,7 +5,7 @@
 
 ## Installation
 
-```
+``` shell
 docker run -d --name ghost -p 2368:2368 -v /path/to/persistent/storage:/var/www/ghost ghifari160/ghost
 ```
 
